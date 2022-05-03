@@ -1,0 +1,19 @@
+section.container {
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.form-section form {
+  display: flex;
+  justify-content: space-between;
+}
+
+ul.todos {
+  padding: 0;
+}
+ul li {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
